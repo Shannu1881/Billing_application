@@ -1,0 +1,13 @@
+.data-input{
+    width: 100px;
+    height: 33px;
+    background: none;
+    text-decoration: none;
+    border: none;
+    color: white;
+}
+
+#logo-img{
+    margin-top: 10px;
+    margin-left: 100px;
+}
